@@ -1,0 +1,122 @@
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe.config
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\bin\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\ПанельЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.cache
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.lref
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\ПанельЕИИС.g.resources
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\ПанельЕИИС.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\ПанельЕИИС.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС\ПанельЕИИС\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe.config
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\bin\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.cache
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.lref
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.g.resources
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe.config
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\bin\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.g.resources
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\ПанельЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\Window2.g.cs
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe.config
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\bin\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\Window2.baml
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\ПанельЕИИС.g.resources
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\ПанельЕИИС.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 1.0 - копия\ПанельЕИИС\obj\Debug\ПанельЕИИС.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe.config
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\bin\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\ПанельЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\Window2.g.cs
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\Window2.baml
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\ПанельЕИИС.g.resources
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\ПанельЕИИС.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\ПанельЕИИС.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\Window3.g.cs
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\Window3.baml
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\Window4.baml
+C:\Users\Administrator\Desktop\Органайзер\Органайзер 2\ПанельЕИИС\obj\Debug\Window4.g.cs
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.cache
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.lref
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe.config
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\bin\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.g.resources
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\Window2.g.cs
+C:\Users\Administrator\Desktop\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\Window2.baml
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe.config
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\bin\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\bin\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.cache
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС_MarkupCompile.lref
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.g.resources
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.exe
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.pdb
+C:\Users\Administrator\Desktop\3_ПанельКнопок\ПанельЕИИС v.2.0\ПанельЕИИС\obj\Debug\ПанельЕИИС.csprojResolveAssemblyReference.cache

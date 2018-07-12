@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<ArrayOfButtonEIIS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Common Files</ContBut>
+    <PathPNG>C:\Program Files (x86)\Common Files\Services\verisign.bmp</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>0</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>CommView</ContBut>
+    <PathPNG>C:\Program Files (x86)\CommView\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\CommView\CertMgr.exe</PathEXE>
+    <NameSubEIIS>1</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>editix-professional</ContBut>
+    <PathPNG>C:\Program Files (x86)\editix-professional\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\editix-professional\uninstall.exe</PathEXE>
+    <NameSubEIIS>3</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>HxD</ContBut>
+    <PathPNG>C:\Program Files (x86)\HxD\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\HxD\HxD.exe</PathEXE>
+    <NameSubEIIS>6</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>IcoFX</ContBut>
+    <PathPNG>C:\Program Files (x86)\IcoFX\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\IcoFX\icofx3.exe</PathEXE>
+    <NameSubEIIS>7</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>icofx3</ContBut>
+    <PathPNG>C:\Program Files (x86)\icofx3\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\icofx3\icofx3.exe</PathEXE>
+    <NameSubEIIS>8</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>IIS Express</ContBut>
+    <PathPNG>C:\Program Files (x86)\IIS Express\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\IIS Express\appcmd.exe</PathEXE>
+    <NameSubEIIS>10</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Internet Explorer</ContBut>
+    <PathPNG>C:\Program Files (x86)\Internet Explorer\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\Internet Explorer\ExtExport.exe</PathEXE>
+    <NameSubEIIS>11</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Log Parser 2.2</ContBut>
+    <PathPNG>C:\Program Files (x86)\Log Parser 2.2\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\Log Parser 2.2\LogParser.exe</PathEXE>
+    <NameSubEIIS>12</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Microsoft OneDrive</ContBut>
+    <PathPNG>C:\Program Files (x86)\Microsoft OneDrive\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\Microsoft OneDrive\OneDriveSetup.exe</PathEXE>
+    <NameSubEIIS>15</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Microsoft Visual Studio 10.0</ContBut>
+    <PathPNG>C:\Program Files (x86)\Microsoft Visual Studio 10.0\Microsoft Visual C# 2010 Express - RUS\logo.bmp</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>21</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Notepad++</ContBut>
+    <PathPNG>C:\Program Files (x86)\Notepad++\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\Notepad++\notepad++.exe</PathEXE>
+    <NameSubEIIS>27</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>OpenOffice 4</ContBut>
+    <PathPNG>C:\Program Files (x86)\OpenOffice 4\program\about.png</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>29</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>ReductionArrow</ContBut>
+    <PathPNG>C:\Program Files (x86)\ReductionArrow\Blank1.ico</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>32</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>RustemSoft</ContBut>
+    <PathPNG>C:\Program Files (x86)\RustemSoft\XMLFox\RS.ico</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>34</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>SEChat</ContBut>
+    <PathPNG>C:\Program Files (x86)\SEChat\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\SEChat\SEChat.exe</PathEXE>
+    <NameSubEIIS>35</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Starth</ContBut>
+    <PathPNG>C:\Program Files (x86)\Starth\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\Starth\uninstall.exe</PathEXE>
+    <NameSubEIIS>37</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Vypress Chat</ContBut>
+    <PathPNG>C:\Program Files (x86)\Vypress Chat\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\Vypress Chat\LogsView.exe</PathEXE>
+    <NameSubEIIS>39</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Windows Mail</ContBut>
+    <PathPNG>C:\Program Files (x86)\Windows Mail\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\Windows Mail\wab.exe</PathEXE>
+    <NameSubEIIS>42</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Windows Media Player</ContBut>
+    <PathPNG>C:\Program Files (x86)\Windows Media Player\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\Windows Media Player\setup_wm.exe</PathEXE>
+    <NameSubEIIS>43</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Windows Photo Viewer</ContBut>
+    <PathPNG>C:\Program Files (x86)\Windows Photo Viewer\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\Windows Photo Viewer\ImagingDevices.exe</PathEXE>
+    <NameSubEIIS>45</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Windows Sidebar</ContBut>
+    <PathPNG>C:\Program Files (x86)\Windows Sidebar\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\Windows Sidebar\sidebar.exe</PathEXE>
+    <NameSubEIIS>47</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>XML Marker 2</ContBut>
+    <PathPNG>C:\Program Files (x86)\XML Marker 2\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files (x86)\XML Marker 2\unins000.exe</PathEXE>
+    <NameSubEIIS>49</NameSubEIIS>
+  </ButtonEIIS>
+</ArrayOfButtonEIIS>
