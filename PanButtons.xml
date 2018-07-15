@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<ArrayOfButtonEIIS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Anaconda3</ContBut>
+    <PathPNG>C:\Program Files\Anaconda3\python.exe.ico</PathPNG>
+    <PathEXE>C:\Program Files\Anaconda3\python.exe</PathEXE>
+    <NameSubEIIS>0</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Common Files</ContBut>
+    <PathPNG>C:\Program Files\Common Files\Services\verisign.bmp</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>1</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>DVD Maker</ContBut>
+    <PathPNG>C:\Program Files\DVD Maker\DVDMaker.exe.ico</PathPNG>
+    <PathEXE>C:\Program Files\DVD Maker\DVDMaker.exe</PathEXE>
+    <NameSubEIIS>2</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Hyper-V</ContBut>
+    <PathPNG>C:\Program Files\Hyper-V\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files\Hyper-V\InspectVhdDialog.exe</PathEXE>
+    <NameSubEIIS>3</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>IIS</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>4</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>IIS Express</ContBut>
+    <PathPNG>C:\Program Files\IIS Express\appcmd.exe.ico</PathPNG>
+    <PathEXE>C:\Program Files\IIS Express\appcmd.exe</PathEXE>
+    <NameSubEIIS>5</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Internet Explorer</ContBut>
+    <PathPNG>C:\Program Files\Internet Explorer\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files\Internet Explorer\iediagcmd.exe</PathEXE>
+    <NameSubEIIS>6</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>IronPython 2.7</ContBut>
+    <PathPNG>C:\Program Files\IronPython 2.7\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files\IronPython 2.7\ipy.exe</PathEXE>
+    <NameSubEIIS>7</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Kataloger</ContBut>
+    <PathPNG>C:\Program Files\Kataloger\kataloger.exe.ico</PathPNG>
+    <PathEXE>C:\Program Files\Kataloger\kataloger.exe</PathEXE>
+    <NameSubEIIS>8</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Microsoft</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>9</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Microsoft Analysis Services</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>10</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Microsoft Games</ContBut>
+    <PathPNG>C:\Program Files\Microsoft Games\Chess\ChessMCE.png</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>11</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Microsoft Help Viewer</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>12</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Microsoft MPI</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>13</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Microsoft Network Monitor 3</ContBut>
+    <PathPNG>C:\Program Files\Microsoft Network Monitor 3\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files\Microsoft Network Monitor 3\netmon.exe</PathEXE>
+    <NameSubEIIS>14</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Microsoft Office</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>15</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Microsoft Office 15</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>16</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Microsoft SQL Server</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>17</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Microsoft SQL Server Compact Edition</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>18</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Microsoft Synchronization Services</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>19</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Microsoft Visual Studio 10.0</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>20</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>MSBuild</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>21</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Oracle</ContBut>
+    <PathPNG>C:\Program Files\Oracle\VirtualBox Guest Additions\iexplore.ico</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>22</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Oxygen XML Editor 20</ContBut>
+    <PathPNG>C:\Program Files\Oxygen XML Editor 20\diffDirs.exe.ico</PathPNG>
+    <PathEXE>C:\Program Files\Oxygen XML Editor 20\diffDirs.exe</PathEXE>
+    <NameSubEIIS>23</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>PuTTY</ContBut>
+    <PathPNG>C:\Program Files\PuTTY\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files\PuTTY\pageant.exe</PathEXE>
+    <NameSubEIIS>24</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Reference Assemblies</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>25</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Uninstall Information</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>26</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Windows Defender</ContBut>
+    <PathPNG>C:\Program Files\Windows Defender\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files\Windows Defender\MpCmdRun.exe</PathEXE>
+    <NameSubEIIS>27</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Windows Kits</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>28</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Windows Mail</ContBut>
+    <PathPNG>C:\Program Files\Windows Mail\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files\Windows Mail\wab.exe</PathEXE>
+    <NameSubEIIS>29</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Windows Media Player</ContBut>
+    <PathPNG>C:\Program Files\Windows Media Player\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files\Windows Media Player\setup_wm.exe</PathEXE>
+    <NameSubEIIS>30</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Windows NT</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>31</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Windows Photo Viewer</ContBut>
+    <PathPNG>C:\Program Files\Windows Photo Viewer\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files\Windows Photo Viewer\ImagingDevices.exe</PathEXE>
+    <NameSubEIIS>32</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>false</VisBut>
+    <ContBut>Windows Portable Devices</ContBut>
+    <PathPNG>0</PathPNG>
+    <PathEXE>0</PathEXE>
+    <NameSubEIIS>33</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>Windows Sidebar</ContBut>
+    <PathPNG>C:\Program Files\Windows Sidebar\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files\Windows Sidebar\sidebar.exe</PathEXE>
+    <NameSubEIIS>34</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>WinPcap</ContBut>
+    <PathPNG>C:\Program Files\WinPcap\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files\WinPcap\rpcapd.exe</PathEXE>
+    <NameSubEIIS>35</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>WinRAR</ContBut>
+    <PathPNG>C:\Program Files\WinRAR\Ace32Loader.exe.ico</PathPNG>
+    <PathEXE>C:\Program Files\WinRAR\Ace32Loader.exe</PathEXE>
+    <NameSubEIIS>36</NameSubEIIS>
+  </ButtonEIIS>
+  <ButtonEIIS>
+    <VisBut>true</VisBut>
+    <ContBut>XMLBlueprint 14</ContBut>
+    <PathPNG>C:\Program Files\XMLBlueprint 14\ico.ico</PathPNG>
+    <PathEXE>C:\Program Files\XMLBlueprint 14\unins000.exe</PathEXE>
+    <NameSubEIIS>37</NameSubEIIS>
+  </ButtonEIIS>
+</ArrayOfButtonEIIS>
